@@ -37,5 +37,5 @@ void __attribute__ ((interrupt(PORT1_VECTOR))) Port_1 (void)
 ## Processors
 - MSP430FR6989
 - MSP430G2553
-#Differences
+### Differences
 The only differences for the two processors' code is that the pins for the LEDs and interrupts are not the same.

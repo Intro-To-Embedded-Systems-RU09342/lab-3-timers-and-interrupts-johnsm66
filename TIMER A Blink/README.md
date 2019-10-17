@@ -7,5 +7,5 @@ compare register, the LED toggles.
 ## Processor
 - MSP430FR6989
 - MSP430G2553
-# Differences
+### Differences
 - The only difference is the pins for the LEDs on each board.
